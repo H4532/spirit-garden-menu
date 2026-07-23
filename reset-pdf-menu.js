@@ -1,0 +1,1 @@
+(()=>{const marker='spiritGardenPdfMenuResetV1';if(!localStorage.getItem(marker)){localStorage.removeItem('spiritGardenMenuV1');localStorage.setItem(marker,'1')}})();
