@@ -1,0 +1,13 @@
+window.SPIRIT_GARDEN_PHOTOS={
+  "pistachio-latte":"assets/items/pistachio-latte-preview.svg",
+  "spanish-latte":"assets/items/spanish-latte-preview.svg",
+  "signature":"assets/items/pistachio-latte-preview.svg",
+  "hot-coffee":"assets/items/spanish-latte-preview.svg",
+  "drip":"assets/items/spanish-latte-preview.svg",
+  "traditional":"assets/items/pistachio-latte-preview.svg",
+  "iced":"assets/items/spanish-latte-preview.svg",
+  "refreshing":"assets/items/rose-latte-preview.svg",
+  "sandwiches":"assets/items/salted-caramel-latte-preview.svg",
+  "bakery":"assets/items/honeycomb-latte-preview.svg",
+  "desserts":"assets/items/rose-latte-preview.svg"
+};
