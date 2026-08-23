@@ -1,0 +1,10 @@
+.section::before{content:"";display:block;height:250px;margin:0 0 18px;border-radius:20px;border:1px solid rgba(227,183,101,.20);background-size:cover;background-position:center;box-shadow:0 18px 50px rgba(0,0,0,.28)}
+#hot::before{background-image:linear-gradient(rgba(16,11,22,.08),rgba(16,11,22,.08)),url('https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1400&q=82')}
+#cold::before{background-image:url('https://res.cloudinary.com/tf-lab/image/upload/f_auto,q_auto,w_1200,c_limit/customer/579f99e8-3a30-4181-a269-e4016630483d/d39c1762-aaf8-440b-a1a9-7dff2661c901.jpg')}
+#smoked::before{background-image:url('https://images.squarespace-cdn.com/content/v1/649f355d12a5e65dfdc7ef6b/698c4549-3254-4815-8eae-a9dbcee3678b/prime%2Bbrisket%2BF%26W.jpg')}
+#burgers::before{background-image:url('https://images.unsplash.com/photo-1627824944500-a984c0c01f51?auto=format&fit=crop&w=1400&q=82')}
+#chicken::before{background-image:url('https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1400&q=82')}
+#rice::before{background-image:url('https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=1400&q=82')}
+#dessert::before{background-image:url('https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=1400&q=82')}
+#drinks::before{background-image:url('https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1400&q=82')}
+@media(max-width:760px){.section::before{height:190px;border-radius:16px}}
